@@ -10,7 +10,7 @@ int main() {
     }
     return 0;
 }
-//
+//Output: 1 3
 //
 //
 #include <iostream>
@@ -27,6 +27,8 @@ int main() {
 
     return 0;
 }
+// output: min 300, sec 18000
+
 #include <iostream>
 #include <string>
 using namespace std;
